@@ -2,6 +2,11 @@
 layout: style
 ---
 
+header .intro-text .intro-lead-in,
 header .intro-text .intro-heading {
     text-shadow: 1px 1px 5px #000;
+}
+
+header .intro-text .intro-heading {
+    line-height: 1.1em;
 }
