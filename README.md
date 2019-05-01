@@ -1,30 +1,22 @@
-Agency Jekyll theme
-====================
+# Features
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
++ Our Events / Local Improv Events
++ Social Media
++ Mailing List
++ About the Team
++ Store
 
-# How to use
+# Design
 
-###Portfolio 
++ Waiting for logo.
++ https://themes.3rdwavemedia.com/decibel/bs4/4.0/
++ https://jekyllthemes.io/theme/agency-jekyll-theme
 
-Portfolio projects are in '/_posts'
+# Content
 
-Images are in '/img/portfolio'
+Washington, DC was founded on land donated by Virginia and Maryland in 1801.
+The city had the shape of a beautiful diamond. Today, there is a bite missing
+from that diamond. That happened in the 1840's. The historical event which
+returned Virginia's part of the diamond was called Retrocession. That includes
+Alexandria, the home of the Retrocessionists.
 
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)

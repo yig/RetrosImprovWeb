@@ -2,55 +2,45 @@ port: 4000
 
 # Site settings
 title: The Retrocessionists
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: retrocessionist.improv@gmail.com
+description: "The Retrocessionists - Improv Comedy in Alexandria, VA"
 
+shows:
+- date: May 25, 2019
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: 
+- date: July 6, 2019
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: 
+- date: August 24, 2019
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: 
+- date: October 5, 2019
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: 
 
 # Team names, titles and social links
 people:
-- name: Julie
+- name: Arhan
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
+- name: Dan
+  pic: 2
+- name: Julie
+  pic: 3
+- name: Keely
+  pic: 2
+- name: Rusty
+  pic: 3
+- name: Sarah
+  pic: 1
+- name: Vera
+  pic: 3
 - name: Yotam
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Arhan
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Rusty
-  pic: 4
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
