@@ -8,15 +8,15 @@ If you want to edit content, edit these files:
 
 For HTML layout and copy:
 
++ \_layouts/*
 + \_includes/*
 
 For People and Shows:
 
 + \_config.yml
-+ \_layouts/*
 
 For fonts and colors:
 
 + \_data/template.yml
 
-The theme is called Agency (https://jekyllthemes.io/theme/agency-jekyll-theme) with some minor edits.
+The Jekyll theme is called Agency (https://jekyllthemes.io/theme/agency-jekyll-theme) with some minor edits.
