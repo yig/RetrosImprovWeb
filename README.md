@@ -2,7 +2,7 @@
 
 This is a Jekyll site. See https://jekyllrb.com/.
 
-You can install Jekyll locally to develop locally and preview changes. GitHub automatically re-builds the content whenever you push a commit.
+You can install Jekyll locally to develop locally and preview changes. (`gem install bundler` then `bundle install` then `bundle exec jekyll serve`). GitHub automatically re-builds the content whenever you push a commit.
 
 If you want to edit content, edit these files:
 
