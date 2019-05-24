@@ -30,19 +30,19 @@ shows:
 # Team names, titles and social links
 people:
 - name: Arhan
-  pic: 1
+  pic: arhan
 - name: Dan
-  pic: 2
+  pic: dan
 - name: Julie
-  pic: 3
+  pic: julie
 - name: Keely
-  pic: 2
+  pic: keely
 - name: Rusty
-  pic: 3
+  pic: rusty
 - name: Sarah
   pic: sarah-500px
 - name: Vera
-  pic: 3
+  pic: vera-500px
 - name: Yotam
   pic: yotam
 
