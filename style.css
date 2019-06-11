@@ -10,3 +10,7 @@ header .intro-text .intro-heading {
 header .intro-text .intro-heading {
     line-height: 1.1em;
 }
+
+#mc_embed_signup form {
+    padding-left: 0px !important;
+}
