@@ -12,8 +12,12 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     {% for show in site.shows %}
                         <div class="show">
-                            <h4>{{ show.date }} - {{ show.time }}</h4>
-                            <h4><a href="{{ show.url }}">{{ show.title }}</a></h4>
+                            <h4>{{ show.date }} - {{ show.time }} {% if show.sold_out %}SOLD OUT{% endif %}</h4>
+                            {% if show.url %}
+                                <h4><a href="{{ show.url }}">{{ show.title }}</a></h4>
+                            {% else %}
+                                <h4><a href="https://www.eventbrite.com/o/the-retrocessionists-11807830250#live_events">{{ show.title }}</a></h4>
+                            {% endif %}
                             <p class="text-muted">{{ show.location }} (<a href="https://www.google.com/maps/place/{{ show.location }}">Map</a>)</p>
                             <hr />
                         </div>
@@ -33,8 +37,33 @@
                                 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
                             </div>
                         </form>
+                        <br />
+                        <br />
                     </div>
                     <!--End mc_embed_signup-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Past Shows</h2>
+                    <h3 class="section-subheading text-muted">&nbsp;</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    {% for show in site.past_shows %}
+                        <div class="show">
+                            <h4>{{ show.date }} - {{ show.time }} 
+                                {% if show.sold_out %}
+                                <span class="sold-out"><b>SOLD OUT</b>
+                                {% endif %}</h4>
+                            <h4><a href="{{ show.url }}">{{ show.title }}</a></h4>
+                            <p class="text-muted">{{ show.location }} (<a href="https://www.google.com/maps/place/{{ show.location }}">Map</a>)</p>
+                            <hr />
+                        </div>
+                    {% endfor %}
+                    <a href="https://www.eventbrite.com/o/the-retrocessionists-11807830250">See all past shows...</a>
+                    <hr />
                 </div>
             </div>
         </div>

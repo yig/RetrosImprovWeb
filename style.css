@@ -14,3 +14,10 @@ header .intro-text .intro-heading {
 #mc_embed_signup form {
     padding-left: 0px !important;
 }
+
+.sold-out {
+    background: #333;
+    color: #fff;
+    padding-left: 7px;
+    padding-right: 7px;
+}
