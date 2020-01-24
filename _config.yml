@@ -6,7 +6,20 @@ email: retrocessionist.improv@gmail.com
 description: "The Retrocessionists - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: February 1, 2020
+  time: 8:00pm
+  title: The Retrocessionists at the Comedy NOVA Launch Party
+  location: Summers Restaurant, 1520 North Courthouse Road, Arlington, VA 22201
+  url: https://www.eventbrite.com/e/comedy-nova-launch-party-tickets-90464400457
 - date: February 15, 2020
+  time: 8:00pm
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+- date: April 11, 2020
+  time: 8:00pm
+  title: The Retrocessionists - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+- date: May 23, 2020
   time: 8:00pm
   title: The Retrocessionists - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
