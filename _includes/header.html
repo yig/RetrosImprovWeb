@@ -39,11 +39,13 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">Improv Comedy in Alexandria, Virginia</div>
+                {% if site.shows.size > 0 %}
                 <div class="intro-heading">
                         Next Show<br />
                         {{ site.shows[0].date | date: '%B %d, %Y' }}<br />
                         {{ site.shows[0].time }}<br />
                 </div>
+                {% endif %}
             </div>
         </div>
     </header>
