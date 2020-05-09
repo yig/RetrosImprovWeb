@@ -6,10 +6,11 @@ email: retrocessionist.improv@gmail.com
 description: "The Retrocessionists - Improv Comedy in Alexandria, VA"
 
 shows:
-- date: Stay tuned!
-  time: Date and time to be announced
-  title: The Retrocessionists - (online) Improv from Old Town Alexandria
+- date: May 9, 2020
+  time: 8:00pm
+  title: The Retrocessionists - Improv Night in Your Home
   location: Online
+  url: https://www.facebook.com/retrocessionists/live
 past_shows:
 - date: February 15, 2020
   time: 8:00pm
