@@ -1,72 +1,72 @@
 port: 4000
 
 # Site settings
-title: The Retrocessionists
+title: The Retros
 email: retrocessionist.improv@gmail.com
-description: "The Retrocessionists - Improv Comedy in Alexandria, VA"
+description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
 - date: June 13, 2020
   time: 9:00pm
-  title: The Retrocessionists - Improv Night in Your Home
+  title: The Retros - Improv Night in Your Home
   location: Online
-  url: https://www.facebook.com/retrocessionists/live
+  url: https://www.facebook.com/RetrosImprov/live
 past_shows:
 - date: May 9, 2020
   time: 8:00pm
-  title: The Retrocessionists - Improv Night in Your Home
+  title: The Retros - Improv Night in Your Home
   location: Online
-  url: https://www.facebook.com/retrocessionists/live
+  url: https://www.facebook.com/RetrosImprov/live
 - date: February 15, 2020
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-93703077427
   sold_out: True
 - date: February 1, 2020
   time: 8:00pm
-  title: The Retrocessionists at the Comedy NOVA Launch Party
+  title: The Retros at the Comedy NOVA Launch Party
   location: Summers Restaurant, 1520 North Courthouse Road, Arlington, VA 22201
   url: https://www.eventbrite.com/e/comedy-nova-launch-party-tickets-90464400457
 - date: November 16, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-81089176911
   sold_out: True
 - date: October 5, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-74317043277
   sold_out: True
 - date: August 24, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-69230266591
   sold_out: True
 - date: July 6, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-64002717852
   sold_out: True
 - date: May 25, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-61948455498
   sold_out: True
 - date: April 5, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-58287032082
   sold_out: True
 - date: February 9, 2019
   time: 8:00pm
-  title: The Retrocessionists - Improv in Old Town Alexandria
+  title: The Retros - Improv in Old Town Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-night-in-old-town-alexandria-tickets-55596762413
   sold_out: True
@@ -93,9 +93,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/retrocessionist
+    url: http://twitter.com/RetrosImprov
   - title: facebook
-    url: https://www.facebook.com/retrocessionists/
+    url: https://www.facebook.com/RetrosImprov/
 
 # Postal address (add as many lines as necessary)
 address:
