@@ -6,11 +6,11 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
-- date: July 25, 2020
-  time: 10:00pm
-  title: The Retros - Improv Night in Your Home
-  location: Online
-  url: https://www.facebook.com/RetrosImprov/live
+- date: April 30, 2022
+  time: 8:00pm
+  title: The Retros - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  sold_out: False
 past_shows:
 - date: June 13, 2020
   time: 9:00pm
