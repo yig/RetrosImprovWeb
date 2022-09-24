@@ -6,13 +6,18 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: October 8, 2022
+  time: 8:00pm
+  title: The Retros - Improv in Old Town Alexandria
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: https://www.eventbrite.com/e/free-improv-show-in-alexandria-tickets-407130727967
+  sold_out: False
+past_shows:
 - date: April 30, 2022
   time: 8:00pm
   title: We're Back! Live, Free Improv in Alexandria
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/were-back-live-free-improv-in-alexandria-tickets-326352558287
-  sold_out: False
-past_shows:
 - date: June 13, 2020
   time: 9:00pm
   title: The Retros - Improv Night in Your Home
