@@ -6,12 +6,6 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
-- date: March 9, 2024
-  time: 8:00pm
-  title: "Spring into Spring with The Retros"
-  location: 600 Wolfe St, Alexandria, VA 22314
-  url: https://www.eventbrite.com/e/free-improv-comedy-in-alexandria-tickets-853806396917
-  sold_out: False
 - date: April 27, 2024
   time: 8:00pm
   title: "April Showers Make Retros Flowers"
@@ -23,6 +17,12 @@ shows:
   location: 600 Wolfe St, Alexandria, VA 22314
   sold_out: False
 past_shows:
+- date: March 9, 2024
+  time: 8:00pm
+  title: "Spring into Spring with The Retros"
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: https://www.eventbrite.com/e/free-improv-comedy-in-alexandria-tickets-853806396917
+  sold_out: True
 - date: January 27, 2024
   time: 8:00pm
   title: "Defrost with The Retros"
