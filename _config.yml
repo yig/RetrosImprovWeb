@@ -11,7 +11,7 @@ shows:
   title: "June is the Most Retros Month of All"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-in-alexandria-va-tickets-909148185697?aff=website
-  sold_out: False
+  sold_out: True
 past_shows:
 - date: April 27, 2024
   time: 8:00pm
