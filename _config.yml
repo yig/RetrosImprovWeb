@@ -6,13 +6,19 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: June 29, 2024
+  time: 8:00pm
+  title: "June Lightning Strikes Retros Twice"
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: https://www.eventbrite.com/e/free-improv-comedy-show-with-the-retros-tickets-928537208787?aff=website
+  sold_out: False
+past_shows:
 - date: June 15, 2024
   time: 8:00pm
   title: "June is the Most Retros Month of All"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-in-alexandria-va-tickets-909148185697?aff=website
   sold_out: True
-past_shows:
 - date: April 27, 2024
   time: 8:00pm
   title: "April Showers Make Retros Flowers"
