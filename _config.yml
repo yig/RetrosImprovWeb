@@ -6,13 +6,19 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: Oct 5, 2024
+  time: 8:00pm
+  title: "Spooky Season with the Retros"
+  location: 600 Wolfe St, Alexandria, VA 22314
+  url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1026572464877?aff=website
+  sold_out: False
+past_shows:
 - date: August 17, 2024
   time: 8:00pm
   title: "Summer's End with the Retros"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-974801757297?aff=website
-  sold_out: False
-past_shows:
+  sold_out: True
 - date: June 29, 2024
   time: 8:00pm
   title: "June Lightning Strikes Retros Twice"
