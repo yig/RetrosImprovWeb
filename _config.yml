@@ -6,13 +6,18 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: January 18, 2025
+  time: 8:00pm
+  title: "New Year's Extravaganza"
+  location: 600 Wolfe St, Alexandria, VA 22314
+  sold_out: False
+past_shows:
 - date: Nov 16, 2024
   time: 8:00pm
   title: "Thanks For The Suggestion"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/free-improv-comedy-show-with-the-retros-tickets-1074236232489?aff=website
-  sold_out: False
-past_shows:
+  sold_out: True
 - date: Oct 5, 2024
   time: 8:00pm
   title: "Spooky Season with the Retros"
