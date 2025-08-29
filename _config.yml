@@ -6,12 +6,16 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
-- date: March 17, 2025
+- date: October 11, 2025
+  time: 8:00pm
+  title: "The Retros Halloween Show"
+  location: 600 Wolfe St, Alexandria, VA 22314
+past_shows:
+- date: May 17, 2025
   time: 8:00pm
   title: "May we interest you in some comedy?"
   url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1353541782909?aff=website
   location: 600 Wolfe St, Alexandria, VA 22314
-past_shows:
 - date: March 8, 2025
   time: 8:00pm
   title: "Spring forward with laughter!"
