@@ -16,6 +16,7 @@ past_shows:
   title: "The Retros Halloween Show"
   location: 600 Wolfe St, Alexandria, VA 22314
   sold_out: True
+  url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1752183611349?aff=website
 - date: May 17, 2025
   time: 8:00pm
   title: "May we interest you in some comedy?"
