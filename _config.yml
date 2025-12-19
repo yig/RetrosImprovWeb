@@ -27,7 +27,7 @@ past_shows:
   title: "Improv Cornucopia"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1752184283359?aff=website
-sold_out: True
+  sold_out: True
 - date: October 11, 2025
   time: 8:00pm
   title: "The Retros Halloween Show"
