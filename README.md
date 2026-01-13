@@ -2,7 +2,7 @@
 
 This is a Jekyll site. See https://jekyllrb.com/.
 
-You can install Jekyll locally to develop locally and preview changes. (`rbenv install 3.4.6` once, then `rbenv shell 3.4.6` then `gem install bundler` then `bundle install` then `bundle exec jekyll serve`). GitHub automatically re-builds the content whenever you push a commit.
+You can install Jekyll locally to develop locally and preview changes. (`mise use` or {`mise install ruby@3.4.7` once, then `mise use ruby@3.4.7`}, then `gem install bundler` then `bundle install` then `bundle exec jekyll serve`). GitHub automatically re-builds the content whenever you push a commit.
 
 If you want to edit content, edit these files:
 

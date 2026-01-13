@@ -6,6 +6,11 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: January 30, 2026
+  time: 7:30pm
+  title: "Retros Field Trip"
+  location: 4653 Taney Ave, Alexandria, VA 22304
+  url: 
 - date: March 7, 2026
   time: 8:00pm
   title: "Retros in Bloom"
