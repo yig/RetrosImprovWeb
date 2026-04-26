@@ -6,21 +6,21 @@ email: retrocessionist.improv@gmail.com
 description: "The Retros - Improv Comedy in Alexandria, VA"
 
 shows:
+- date: May 15, 2026
+  time: 7:30pm
+  title: "Retros Field Trip"
+  location: 4653 Taney Ave, Alexandria, VA 22304
+  url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1988275154510?aff=website
+- date: June 13, 2026
+  time: 8:00pm
+  title: "Summer Vacation with the Retros"
+  location: 600 Wolfe St, Alexandria, VA 22314
+past_shows:
 - date: April 25, 2026
   time: 8:00pm
   title: "April Comedy May Surprise"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-1987277246741?aff=website
-- date: May 15, 2026
-  time: 7:30pm
-  title: "Retros Field Trip"
-  location: 4653 Taney Ave, Alexandria, VA 22304
-- date: June 13, 2026
-  time: 8:00pm
-  title: "Start Your Summer with the Retros"
-  location: 600 Wolfe St, Alexandria, VA 22314
-  url: 
-past_shows:
 - date: March 7, 2026
   time: 8:00pm
   title: "Retros in Bloom"
