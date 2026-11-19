@@ -11,6 +11,7 @@ shows:
   title: "Retros Family Thanksgiving"
   location: 600 Wolfe St, Alexandria, VA 22314
   url: https://www.eventbrite.com/e/improv-comedy-show-with-the-retros-tickets-2003318394245?aff=website
+  sold_out: True
 past_shows:
 - date: October 2, 2026
   time: 8:00pm
